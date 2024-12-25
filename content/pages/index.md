@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Hero Title
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: 這是屬於自己的手藝謀生網站
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
