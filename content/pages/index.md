@@ -5,10 +5,8 @@ sections:
   - type: HeroSection
     title: 關於一粒麥子
     subtitle: 這是屬於自己的手藝謀生網站
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: |
+      認真
     actions:
       - type: Button
         label: Start Building
