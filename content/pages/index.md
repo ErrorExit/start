@@ -24,7 +24,7 @@ sections:
             label: 重點聲明：
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Second Card Title
+        title: 幫您設定自動化守護隱私級安全
         image:
           type: Image
           url: /images/螢幕快照_2024-12-26_07-35-40.png
