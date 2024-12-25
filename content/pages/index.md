@@ -18,7 +18,7 @@ sections:
           我 實 實 在 在 的 告 訴 你 們 ， 一 粒 麥 子 不 落 在 地 裡 死 了 ， 仍 舊 是 一 粒 ， 若 是 死 了 ， 就
           結 出 許 多 子 粒 來 。
 
-          約翰福音 12:24 HOLY BIBLE
+          \---- 約翰福音 12:24 HOLY BIBLE
         actions:
           - type: Button
             label: Read the Docs
