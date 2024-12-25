@@ -27,7 +27,7 @@ sections:
         title: Second Card Title
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/螢幕快照_2024-12-26_07-35-40.png
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
