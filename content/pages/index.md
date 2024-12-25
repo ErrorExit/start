@@ -3,7 +3,7 @@ title: '一例麥子 “服務網“ '
 type: Page
 sections:
   - type: CardsSection
-    title: 技術所及的一切領域，
+    title: 技術所及的一切領域，交給我們處理。
     subtitle: Section subtitle here
     items:
       - type: Card
