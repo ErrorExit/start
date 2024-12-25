@@ -43,7 +43,9 @@ sections:
           當求神的國和神的義，其他的都要加給你們了。
         actions:
           - type: Button
-            label: 重點聲明：
+            label: >-
+              重點聲明：Google 不予許提供遠端協助的部份，據說是違反他們的條款，所以不受第三方技術單位的支援。若違反此條款即不可在
+              Google 上設立商家
             url: ''
       - type: Card
         title: 幫您設定自動化守護隱私級安全
