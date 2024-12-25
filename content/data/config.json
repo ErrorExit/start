@@ -18,7 +18,7 @@
             },
             {
                 "type": "Link",
-                "label": "Downloads",
+                "label": "下載",
                 "url": "/Downloads",
                 "underline": "hover"
             }
