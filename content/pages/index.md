@@ -21,7 +21,7 @@ sections:
           \---- 約翰福音 12:24 HOLY BIBLE
         actions:
           - type: Button
-            label: 重點聲明
+            label: 重點聲明：
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Second Card Title
