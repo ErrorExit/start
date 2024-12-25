@@ -44,7 +44,7 @@ sections:
         actions:
           - type: Button
             label: 重點聲明：
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: ''
       - type: Card
         title: 幫您設定自動化守護隱私級安全
         image:
