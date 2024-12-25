@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "一粒麥子-服務網",
         "navLinks": [
             {
                 "type": "Link",
