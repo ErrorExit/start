@@ -15,10 +15,10 @@ sections:
           url: /images/icons8-wheat-100.png
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          我 實 實 在 在 的 告 訴 你 們 ， 一 粒 麥 子 不 落 在 地 裡 死 了 ， 仍 舊 是 一 粒 ， 若 是 死 了 ， 就
+          結 出 許 多 子 粒 來 。
+
+          約翰福音 12:24 HOLY BIBLE
         actions:
           - type: Button
             label: Read the Docs
