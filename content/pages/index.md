@@ -71,10 +71,7 @@ sections:
           一切作業遠端即可控制，全球各地皆有服務。事後僅僅收設定費。
 
           與我們聯繫。
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        actions: []
       - type: Card
         title: Third Card Title
         image:
