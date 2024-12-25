@@ -7,7 +7,7 @@
             {
                 "type": "Link",
                 "label": "首頁",
-                "url": "/",
+                "url": "https://cute-rolypoly-633c1d.netlify.app/",
                 "underline": "hover"
             },
             {
