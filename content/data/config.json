@@ -21,6 +21,13 @@
                 "label": "下載",
                 "url": "/Downloads",
                 "underline": "hover"
+            },
+            {
+                "type": "Link",
+                "label": "服務",
+                "url": "/",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
