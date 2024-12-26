@@ -52,7 +52,7 @@ sections:
         title: 開始使用自動化保護隱私和安全
         image:
           type: Image
-          url: /images/螢幕快照_2024-12-26_07-35-40.png
+          url: /images/nextjs.svg
           altText: Second item image
         text: |
           ### 自動化工具
