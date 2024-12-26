@@ -24,7 +24,7 @@
             },
             {
                 "type": "Link",
-                "label": "服務",
+                "label": "聯繫",
                 "url": "/",
                 "underline": "always",
                 "color": "primary"
