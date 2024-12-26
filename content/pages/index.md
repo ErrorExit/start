@@ -94,7 +94,7 @@ sections:
             url: 'https://docs.netlify.com/visual-editor/overview/'
   - type: HeroSection
     title: 關於采匠
-    subtitle: 精工'
+    subtitle: 精工、細琢、不求完美但求實際。
     text: >
       ### 凡是只要有登入的服務，它都能入侵竄改，甚至現在同時間，都可能已經串改勝至把被用信箱，兩步驟驗證的權限奪去了。
 
