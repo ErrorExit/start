@@ -109,7 +109,7 @@ sections:
       - type: Button
         label: 預約諮詢
         url: 'https://docs.netlify.com/visual-editor/get-started/'
-        size: large
+        size: medium
         variant: contained
         color: primary
       - type: Button
