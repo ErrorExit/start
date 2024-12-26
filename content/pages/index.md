@@ -55,7 +55,7 @@ sections:
           url: /images/螢幕快照_2024-12-26_07-35-40.png
           altText: Second item image
         text: |
-          # 自動化工具
+          ### 自動化工具
 
           您不須具備高級設備，只需要一部普通的 Android 手機即。
 
