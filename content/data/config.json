@@ -51,7 +51,7 @@
                 "label": "聯繫",
                 "underline": "hover",
                 "url": "",
-                "color": "primary"
+                "color": "inherit"
             }
         ]
     }
