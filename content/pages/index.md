@@ -107,7 +107,7 @@ sections:
 
     actions:
       - type: Button
-        label: Start Building
+        label: 預約
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
