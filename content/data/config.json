@@ -12,7 +12,7 @@
             },
             {
                 "type": "Link",
-                "label": "關於",
+                "label": "服務",
                 "url": "/about",
                 "underline": "hover"
             },
