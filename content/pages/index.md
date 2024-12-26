@@ -95,8 +95,17 @@ sections:
   - type: HeroSection
     title: 關於一粒麥子
     subtitle: 駭客的危害-完全不顧他人感受。
-    text: >+
+    text: >
       ### 凡是只要有登入的服務，它都能入侵竄改，甚至現在同時間，都可能已經串改勝至把被用信箱，兩步驟驗證的權限奪去了。
+
+
+      <iframe style="border-radius:12px"
+      src="https\://open.spotify.com/embed/album/7ApME0cagn7tQrtGkgm8vg?utm\_source=generator"
+      width="100%" height="152" frameBorder="0" allowfullscreen=""
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen;
+      picture-in-picture" loading="lazy"></iframe>
+
+
 
 
       隨便買一本書，隨便看隨便找也一堆駭客書籍，攻擊簡單，按表操課而已，看到哪指令下到哪，而真正值得敬畏的是那些日以繼夜的修復以及偵錯的偉大資安人員們，他們就像瘋子（比喻）拿了菜刀往路上隨機砍人，試問砍人須不需要教學？但是你有想到被害者嘛？你這一串死亡之
@@ -139,7 +148,6 @@ sections:
 
       但我以意念心智都被模練到成熟，不動怒，寬恕、且祝福你。你打我右臉，我連左臉也轉過來由你打。陪同走一里路，我培你走二里。要我裡衣，我給你外衣。這個網站，不知道能維持多久，因為他不會一次毀壞，或許可能會假扮我，而刪除，更動一些關鍵內容。我買的網域價值上萬，都被盜用到討不回來
       cloudos.live 這是我的雲端作業系統網域。
-
     actions:
       - type: Button
         label: Start Building
