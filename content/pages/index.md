@@ -54,7 +54,15 @@ sections:
           type: Image
           url: /images/螢幕快照_2024-12-26_07-35-40.png
           altText: Second item image
-        text: ''
+        text: |+
+          # 自動化工具
+
+          您不須具備高級設備，只需要一部普通的 Android 手機即。
+
+          我們會按照你的需求，配置相對的動作。例如，當您睡著，自動開啟飛航模式。
+
+          又或者可以直接到連裝置 ID 
+
         actions: []
       - type: Card
         title: Third Card Title
