@@ -113,7 +113,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
+        label: 不是現在
         url: ''
         size: large
         variant: outlined
