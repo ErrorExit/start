@@ -42,7 +42,7 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "服務",
                 "underline": "hover",
                 "url": "/about"
             },
