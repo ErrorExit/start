@@ -101,11 +101,9 @@ sections:
 
       <iframe style="border-radius:12px"
       src="https\://open.spotify.com/embed/album/7ApME0cagn7tQrtGkgm8vg?utm\_source=generator"
-      width="100%" height="152" frameBorder="0" allowfullscreen=""
+      width="100%" height="352" frameBorder="0" allowfullscreen=""
       allow="autoplay; clipboard-write; encrypted-media; fullscreen;
       picture-in-picture" loading="lazy"></iframe>
-
-
 
 
       隨便買一本書，隨便看隨便找也一堆駭客書籍，攻擊簡單，按表操課而已，看到哪指令下到哪，而真正值得敬畏的是那些日以繼夜的修復以及偵錯的偉大資安人員們，他們就像瘋子（比喻）拿了菜刀往路上隨機砍人，試問砍人須不需要教學？但是你有想到被害者嘛？你這一串死亡之
