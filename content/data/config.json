@@ -12,7 +12,7 @@
             },
             {
                 "type": "Link",
-                "label": "關於",
+                "label": "服務",
                 "url": "/about",
                 "underline": "hover"
             },
@@ -24,7 +24,7 @@
             },
             {
                 "type": "Link",
-                "label": "服務",
+                "label": "聯繫",
                 "url": "/",
                 "underline": "always",
                 "color": "primary"
@@ -36,21 +36,22 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "首頁",
                 "underline": "hover",
                 "url": "/"
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "服務",
                 "underline": "hover",
                 "url": "/about"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "聯繫",
                 "underline": "hover",
-                "url": "https://docs.netlify.com/visual-editor/overview/"
+                "url": "",
+                "color": "inherit"
             }
         ]
     }
