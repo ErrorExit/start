@@ -49,7 +49,7 @@ sections:
               上設立商家，有鑑於此，我仍然提供我認為能幫助社會治安以及增加個人隱私包含人權在內的一切服務。我們即將推出，連駭客都束手無策的一款APP。
             url: ''
       - type: Card
-        title: 開始使用自動化保護隱私和安全
+        title: 使用自動化保護隱私和安全
         image:
           type: Image
           url: /images/nextjs.svg
