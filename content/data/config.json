@@ -48,6 +48,13 @@
             },
             {
                 "type": "Link",
+                "label": "Learn more",
+                "url": "/",
+                "underline": "always",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
                 "label": "聯繫",
                 "underline": "hover",
                 "url": "",
