@@ -107,7 +107,7 @@ sections:
 
     actions:
       - type: Button
-        label: 預約
+        label: 預約諮詢
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
